@@ -1,0 +1,6 @@
+{
+  "name": "Bhishma Graphics",
+  "description": "Bhishma Graphics is a premium provider of advanced ID card solutions, customized lanyards, RFID smart cards, and visitor badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
